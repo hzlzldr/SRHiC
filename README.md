@@ -22,12 +22,15 @@ In the training stage, the input matrix shape should be in the shape as (N, n1, 
 
 In the specific code running process, please manually modify the corresponding parameters of training input file directory path,valid file and model save  directory path in the SRHiC_main.py script under the src file. Last but not least,please set the training parameter in the main function to True. 
 If you have modified the above parameters, then you can run directly
+  ```
   python SRHiC_main.py
-
+  ```
 
 ### Prediction
 Just low-resolution Hi-C samples are needed. The shape of the samples should be the same with the training stage. The prediction generates the enhanced Hi-C data, which is a bunch of sub-matrices. The user need to recombine them into a big matrix.
 
 If you want to use your trained model or a model directly from the model folder in my repository, please manually modify the corresponding parameters of test input file directory path, model save  directory path and the path of model checkpoint file in the SRHiC_main.py script under the src file. Last but not least,please set the training parameter in the main function to False. 
 If you have modified the above parameters, then you can run directly
+```
   python SRHiC_main.py
+```
