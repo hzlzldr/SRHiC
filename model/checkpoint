@@ -1,0 +1,4 @@
+model_checkpoint_path: "/GPUFS/sysu_dqdai_2/lzl/srhic_net_2_ret_model_2/model/-29766"
+all_model_checkpoint_paths: "/GPUFS/sysu_dqdai_2/lzl/srhic_net_2_ret_model_2/model/-29701"
+all_model_checkpoint_paths: "/GPUFS/sysu_dqdai_2/lzl/srhic_net_2_ret_model_2/model/-29751"
+all_model_checkpoint_paths: "/GPUFS/sysu_dqdai_2/lzl/srhic_net_2_ret_model_2/model/-29766"
