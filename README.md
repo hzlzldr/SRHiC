@@ -1,8 +1,8 @@
 # SRHiC
 We developed a novel and simple computational method based on deep learning to enhance the resolution of Hi-C data. 
-[image](https://github.com/hzlzldr/SRHiC/blob/master/pic/Fig1.jpg)
+![image](https://github.com/hzlzldr/SRHiC/blob/master/pic/Fig1.jpg)
 
-[image](https://github.com/hzlzldr/SRHiC/blob/master/pic/Fig2.jpg)
+![image](https://github.com/hzlzldr/SRHiC/blob/master/pic/Fig2.jpg)
 
 
 ## Dependency
