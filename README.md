@@ -1,2 +1,4 @@
 # SRHiC
-Hi-C data is important for studying chromatin three-dimensional (3D) structure.  However, the resolution of most existing Hi-C data is generally coarse due to sequencing cost. Therefore, it will be helpful if we can predict high-resolution Hi-C data from low-coverage sequencing data. Here we developed a novel and simple computational method based on deep learning named SRHiC to enhance the resolution of Hi-C data. We verified SRHiC on Hi-C data in human cell line. We also evaluated the generalization power of SRHiC by enhancing Hi-C data resolution across different cell types in the same or different species. Results showed that SRHiC outperforms the state-of-the-art methods in accuracy of prediction.
+We developed a novel and simple computational method based on deep learning to enhance the resolution of Hi-C data. 
+
+Dependency
